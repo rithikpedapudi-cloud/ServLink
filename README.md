@@ -15,5 +15,3 @@ Coming soon...
 - HTML
 - CSS (Tailwind)
 - JavaScript
-
-- 
